@@ -149,3 +149,20 @@ $RECYCLE.BIN/
 
 # Mac crap
 .DS_Store
+
+
+### XamarinStudio ###
+bin/
+obj/
+*.userprefs
+
+
+### MonoDevelop ###
+#User Specific
+*.userprefs
+*.usertasks
+
+#Mono Project Files
+*.pidb
+*.resources
+test-results/
